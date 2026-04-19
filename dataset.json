@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Pennsylvania, US",
-  "export_job_id": "a7c125ef-ee35-4029-afbf-ce49b53b1f16",
+  "export_job_id": "dedaa124-3e4a-48db-b3c5-e11103d3263b",
   "github_org": "Beamstation-Datasets",
   "id_short": 925141,
   "location_name": "Pennsylvania",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-pennsylvania-us-sample-925141",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/925141/beamstation_925141_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_pct": 8.7,
+  "sample_pct": 8.33,
   "sample_records": 4,
   "sample_sha256": "606678f425e5d70680620ce3048e88747f2a51bb5e6d1b68e61193a287ac6c7a",
   "sample_size_bytes": 33426,
-  "total_records": 46,
-  "updated_at": "2026-03-31T23:05:04.063778+00:00"
+  "total_records": 48,
+  "updated_at": "2026-04-15T00:44:18.901332+00:00"
 }
