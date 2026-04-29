@@ -1,12 +1,12 @@
 {
-  "export_job_id": "cb855516-3c59-4a3f-9e51-55a452fd4e76",
+  "export_job_id": "6cf25d82-a603-434d-abef-fb7aaea05211",
   "id_short": 925141,
-  "published_at": "2026-04-22T19:08:26Z",
+  "published_at": "2026-04-29T19:16:54Z",
   "repo_name": "top-50-restaurant-category-dominators-in-pennsylvania-us-sample-925141",
   "sample_asset_name": "beamstation_925141_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/925141/beamstation_925141_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 6,
-  "sample_sha256": "fbf58fe71e885e073773e324308b9eb0bf0bebcd8164e0002b3c3b9815ca36b8",
-  "sample_size_bytes": 38072,
-  "total_records": 69
+  "sample_records": 2,
+  "sample_sha256": "8aaffd81bdd9201ba3982bb1958ab91bb894afa9fa8c26cc18d04ce4351f417d",
+  "sample_size_bytes": 24369,
+  "total_records": 26
 }
